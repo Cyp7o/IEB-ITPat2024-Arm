@@ -1,0 +1,24 @@
+# NetBeans private configuration
+nbproject/private/
+
+# Build output
+build/
+dist/
+*.class
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+hs_err_pid*.log
+
+# Local database backups
+PATDB_Backup.accdb
+*.laccdb
