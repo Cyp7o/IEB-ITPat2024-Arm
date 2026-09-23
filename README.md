@@ -15,6 +15,9 @@ Login
 Secure login interface used to access the application.
 
 Main Menu
+### Main Menu
+
+![Main Menu](ScreenShots/Arm_HomeScreen.png)
 
 
 
