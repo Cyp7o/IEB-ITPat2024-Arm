@@ -5,7 +5,6 @@ A Java-based desktop application developed as my Information Technology Practica
 The system was designed to help manage properties, tenants, payments, expenses, and related administrative information through a graphical user interface backed by a Microsoft Access database.
 
 📸 Screenshots
-Login
 
 ### Login
 
@@ -14,7 +13,6 @@ Login
 
 Secure login interface used to access the application.
 
-Main Menu
 ### Main Menu
 
 ![Main Menu](ScreenShots/Arm_HomeScreen.png)
@@ -26,7 +24,12 @@ Central navigation screen providing access to the different areas of the system.
 
 Property Management
 
+### Main Menu
 
+![Property Menu](ScreenShots/Arm_ApartmentScreen.png)
+![Property Menu](ScreenShots/Arm_EditApartmentScreen.png)
+![Property Menu](ScreenShots/Arm_AddPropertyScreen.png)
+![Property Menu](ScreenShots/Arm_ViewApartmentScreen.png)
 
 
 Manage property information and view existing properties stored in the database.
