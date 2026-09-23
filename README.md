@@ -31,24 +31,23 @@ Manage property information and view existing properties stored in the database.
 
 ### Tenant Management
 
-![Property Menu](ScreenShots/Arm_TenantScreen.png)
-![Property Menu](ScreenShots/Arm_EditTenantScreen.png)
-![Property Menu](ScreenShots/Arm_AddTenantScreen.png)
+![Tenant Menu](ScreenShots/Arm_TenantScreen.png)
+![Tenant Menu](ScreenShots/Arm_EditTenantScreen.png)
+![Tenant Menu](ScreenShots/Arm_AddTenantScreen.png)
 
 
 Manage tenant records and their associated property information.
 
 ### Payments
 
-![Property Menu](ScreenShots/Arm_PaymentScreen.png)
-![Property Menu](ScreenShots/Arm_EditPaymScreen.png)
-![Property Menu](ScreenShots/Arm_AddPaymentScreen.png)
+![Payments Menu](ScreenShots/Arm_PaymentScreen.png)
+![Payments Menu](ScreenShots/Arm_AddPaymentScreen.png)
 
 ### Expenses
 
-![Property Menu](ScreenShots/Arm_ExpenseScreen.png)
-![Property Menu](ScreenShots/Arm_EditExpenseScreen.png)
-![Property Menu](ScreenShots/Arm_AddExpenseScreen.png)
+![Expenses Menu](ScreenShots/Arm_ExpenseScreen.png)
+![Expenses Menu](ScreenShots/Arm_EditExpenseScreen.png)
+![Expenses Menu](ScreenShots/Arm_AddExpenseScreen.png)
 
 Record and manage payment information.
 
