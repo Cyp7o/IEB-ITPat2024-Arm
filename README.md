@@ -18,42 +18,39 @@ Secure login interface used to access the application.
 ![Main Menu](ScreenShots/Arm_HomeScreen.png)
 
 
-
-
 Central navigation screen providing access to the different areas of the system.
 
-Property Management
-
-### Main Menu
+### Property Managment
 
 ![Property Menu](ScreenShots/Arm_ApartmentScreen.png)
 ![Property Menu](ScreenShots/Arm_EditApartmentScreen.png)
 ![Property Menu](ScreenShots/Arm_AddPropertyScreen.png)
-![Property Menu](ScreenShots/Arm_ViewApartmentScreen.png)
-
+![Property Menu](ScreenShots/Arm_ViewApartment.png)
 
 Manage property information and view existing properties stored in the database.
 
-Tenant Management
+### Tenant Management
 
-
+![Property Menu](ScreenShots/Arm_TenantScreen.png)
+![Property Menu](ScreenShots/Arm_EditTenantScreen.png)
+![Property Menu](ScreenShots/Arm_AddTenantScreen.png)
 
 
 Manage tenant records and their associated property information.
 
-Payments
+### Payments
 
+![Property Menu](ScreenShots/Arm_PaymentScreen.png)
+![Property Menu](ScreenShots/Arm_EditPaymScreen.png)
+![Property Menu](ScreenShots/Arm_AddPaymentScreen.png)
 
+### Expenses
 
+![Property Menu](ScreenShots/Arm_ExpenseScreen.png)
+![Property Menu](ScreenShots/Arm_EditExpenseScreen.png)
+![Property Menu](ScreenShots/Arm_AddExpenseScreen.png)
 
 Record and manage payment information.
-
-Reports
-
-
-
-
-Generate and view information from the application's stored data.
 
 Note: Screenshots are provided to demonstrate the application's interface and functionality. The original PAT database has been replaced with a sanitised demonstration database.
 
@@ -70,6 +67,7 @@ Data validation
 Graphical user interface
 Reporting functionality
 Persistent data storage
+
 🛠️ Technologies
 Technology	Purpose
 Java	Application development
@@ -78,6 +76,7 @@ Microsoft Access	Database
 UCanAccess	Java ↔ Access database connectivity
 NetBeans	Development environment
 JUnit	Testing
+
 🏗️ Project Structure
 Property-Administration-System/
 │
@@ -195,9 +194,8 @@ Copyright © 2026 Liron Mindel. All rights reserved.
 
 The code may be viewed for evaluation purposes. Reproduction, redistribution, or incorporation into another project is not permitted without permission.
 
-👨‍💻 About
+👨‍💻 About Me 
 
-Liron Mindel
 
 Computer Science student interested in software development, systems, electronics, and practical technology projects.
 
